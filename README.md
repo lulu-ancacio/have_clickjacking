@@ -11,7 +11,7 @@
 
 <h2>Exemplo de uso</h2>
 <p>
-  1. Neste exemplo, o site "example.com" é vulnerável ao ClickJacking, as diretivas de proteção a esta falha no cabeçalho HTTP são inexistentes e o algoritimo automaticamente criará um arquivo HTML chamado "hcj_example.com.html" que importa o site.
+  1. Neste exemplo, o site "example.com" é vulnerável ao ClickJacking, as diretivas de proteção à esta falha no cabeçalho HTTP são inexistentes e o algoritimo automaticamente criará um arquivo HTML chamado "hcj_example.com.html" que importa o site.
   
   ```python
     from hcj import hcj
